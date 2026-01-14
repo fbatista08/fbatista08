@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Felipe Batista
+# 👨🏽‍💻 Felipe Batista
 
 **`Desenvolvedor Front-End`**
 
