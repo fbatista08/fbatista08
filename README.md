@@ -123,7 +123,7 @@ Olá, me chamo Felipe Figueiredo Batista, tenho 19 anos e sou de Guarulhos, São
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=fbatista08&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
   />
