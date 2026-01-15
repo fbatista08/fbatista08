@@ -131,7 +131,7 @@ Olá, me chamo Felipe Figueiredo Batista, tenho 19 anos e sou de Guarulhos, São
   <img 
     align="right"
     alt="Top Languages"
-    height="200"
+    height="150"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fbatista08&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
   />
 </p>
